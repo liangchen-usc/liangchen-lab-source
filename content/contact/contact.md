@@ -29,4 +29,5 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+**_We are hiring!_** Currently we are welcome Ph.D and postdoc members to join our team. The position(s) will remain open until filled, and the start date is the same with the university for Ph.D and any time for postdoc.
+Interested in joining our team? Email your CV, 1 page cover letter, 1 writing sample (paper or grant), and anything you want to show me, directly to liang.chen@usc.edu. We strive to create a diverse and inclusive atmosphere and bring members into our team with unique and complementary skill sets! 

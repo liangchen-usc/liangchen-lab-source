@@ -8,7 +8,7 @@
 theme: minimal
 day_night: false
 font: native
-font_size: L
+font_size: m
 
 # SEO
 
@@ -20,23 +20,23 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: liang.chen@usc.edu
+phone: (213) 740-2143
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 1050 CHILDS WAY, IRANI HALL RRI 416E
+  city: Los Angeles
   region: CA
-  postcode: '94305'
+  postcode: '90007'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '34.0224'
+  longitude: '-118.2900'
+# directions: Enter Gate 6 and building RRI then heading to 4th floor
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Tuesday 09:00 to 15:30'
+  - 'Thursday 09:00 to 15:30'
+# appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas

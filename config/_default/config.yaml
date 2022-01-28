@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: USC QCB Liang's Lab 
+baseurl: 'https://liangchen-usc.github.io/' # Website URL
+copyright: '© 2015-{year} Liang Chen' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -77,3 +77,10 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+# To handle: access denied: "WC_POST_CSS" is not whitelisted in policy "security.funcs.getenv"
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

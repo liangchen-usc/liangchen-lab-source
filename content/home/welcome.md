@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wowchemy  
+  Liang Chen's 
   Research Group
 hero_media: welcome.jpg
 design:
@@ -18,6 +18,14 @@ design:
   css_class:
 ---
 
-<br>
+<!-- <br> -->
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Research topics:**
+- High-throughput sequencing data analysis:
+e.g., variant identification, sequence quantification
+
+- mRNA alternative splicing:
+e.g., the identification of splicing regulatory elements, the reconstruction of alternative splicing networks
+
+- Genome-wide association studies:
+e.g., expression quantitative trait loci (eQTL) mapping
